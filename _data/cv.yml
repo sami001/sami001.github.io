@@ -3,17 +3,15 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Mohammed Samiul Saeef
   depiction: headshot.png
   profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  location: Arlington, TX, USA
+  email: saeef.sami@gmail.com
+  site: https://sami001.github.io
+  phone: (+1)-682-2561851
+  github: /sami001
+  linkedin: /samiul-saeef
 
 career:
  - position: Foot Clan Antagonist
