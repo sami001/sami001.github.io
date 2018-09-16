@@ -1,7 +1,5 @@
-_site
-.sass-cache
+_site/
+.sass-cache/
 .jekyll-metadata
-.idea
-.DS_Store
-node_modules
-npm-debug.log
+/.idea/
+/jekyll-cv-crafter-0.1.0.gem
