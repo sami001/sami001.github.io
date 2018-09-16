@@ -3,13 +3,9 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-<<<<<<< HEAD
-  name: Michelangelo
-  depiction: face.jpg
-=======
+
   name: Mohammed Samiul Saeef
   depiction: headshot.png
->>>>>>> 5865282478d7d36469400698d5ea683f92bd9bca
   profession: Teenage Mutant Ninja Turtle
   location: Arlington, TX, USA
   email: saeef.sami@gmail.com
