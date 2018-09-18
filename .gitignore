@@ -1,4 +1,4 @@
-# IDE specific
-.idea/
-.vscode/
-resources/
+node_modules
+.sass-cache
+css
+css/main.css
